@@ -1,4 +1,5 @@
 # Day7-Threads
 Theads
 
-## * not working with api 19 phone
+## * NOT WORKING WITH API 19 
+ * SSL Exception 
