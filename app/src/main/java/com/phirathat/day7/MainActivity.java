@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         tvcount = findViewById(R.id.tvcount);
-        new MyTask().execute("Foo");
+        new MyTask().execute("Foo");  //start AsynTask
 
 //        Thread t = new Thread(){
 //            public void run(){
